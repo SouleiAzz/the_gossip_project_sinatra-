@@ -1,6 +1,6 @@
 Salut Salut 
  Voici le super gossip project que je n'ai malheureusement pas terminé, je me suis arrêté au 2.7 
- Il n'y a pas non plus de commentaires sur le code car il est plutot exiplicite et que tout a été dis dans le cour 
+ Il n'y a pas non plus de commentaires sur le code car il est plutot exiplicite et tout ce que j'ai pu faire a été dit dans le cour 
  
 Malgrès tout pour l'utilisation:
 - git clone https://github.com/souleimanazz/the_gossip_project_sinatra-.git

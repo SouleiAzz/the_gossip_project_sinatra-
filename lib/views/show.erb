@@ -4,13 +4,8 @@
   </head>
   
   <body>
-     <form action= '/gossips/:id' method='POST'>
        <h1>Potin n° <%= params[:id] %> </h1>
-       <br>
-         auteur : <%= Gossip.all["#{params[:id]}".to_i + -1].author%>
-       <br>
-         contenu : <%= Gossip.all["#{params[:id]}".to_i + -1].content%>
-       <br>
+       <p><br> auteur : <%= gossip.author%><br> contenu : <%= gossip.content%> <br> </p>
     </form>
     <a href ="http://localhost:4567">Revenir à l'index</a>
       </body>
